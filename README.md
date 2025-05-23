@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello welcome! 👋
+I'm **FluxDesire**, a bachelor administration student, and currently learning how to programming.
 
+I dabble in **drawing** and **VRChat**.
+
+---
+
+## Currently Learning
+![Skills](https://skillicons.dev/icons?i=py,arduino,vscode)
+
+### Tools I've Used
+![Skills](https://skillicons.dev/icons?=notion,obsidian,trello)
 <!--
 **FluxDesire/FluxDesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

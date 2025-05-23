@@ -4,12 +4,12 @@ I'm **FluxDesire**, a bachelor administration student, and currently learning ho
 I dabble in **drawing** and **VRChat**.
 
 ---
+## Tools I've Used
+![Skills](https://skillicons.dev/icons?i=notion,obsidian)
 
-## Currently Learning
+### Currently Learning
 ![Skills](https://skillicons.dev/icons?i=py,arduino,vscode)
 
-### Tools I've Used
-![Skills](https://skillicons.dev/icons?i=notion,obsidian)
 <!--
 **FluxDesire/FluxDesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

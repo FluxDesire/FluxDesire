@@ -9,7 +9,7 @@ I dabble in **drawing** and **VRChat**.
 ![Skills](https://skillicons.dev/icons?i=py,arduino,vscode)
 
 ### Tools I've Used
-![Tools](https://skillicons.dev/icons?=notion,obsidian)
+![Skills](https://skillicons.dev/icons?i=notion,obsidian)
 <!--
 **FluxDesire/FluxDesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
